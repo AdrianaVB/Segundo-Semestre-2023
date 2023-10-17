@@ -1,4 +1,4 @@
-# Segundo-Semestre-2023
+# 💻Segundo-Semestre-2023
 
 📚Práctica para Programación I y II
 📝Actividades: Ejercitación en Java
