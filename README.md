@@ -12,7 +12,7 @@
 
 ## Enlaces
 
-[Visualizar repositorio del Equipo CodiPro](https://github.com/CodeStrong2023/SegundoSemestreCodiPro)
+[Visualizar repositorio del Equipo Codipro](https://github.com/CodeStrong2023/SegundoSemestreCodiPro)
 
 [Visualizar video del proyecto en PSeInt](https://www.youtube.com/watch?v=jWhF1lcBhNo)
 
